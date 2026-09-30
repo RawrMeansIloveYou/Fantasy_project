@@ -1,0 +1,14 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 243: screen statement expects a non-empty block.
+    screen quick_menu():
+           ^
+
+File "game/screens.rpy", line 247: expected statement.
+    mousearea:
+             ^
+
+Ren'Py Version: Ren'Py 8.5.0.25111603
+Fri Dec 19 13:28:33 2025
